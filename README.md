@@ -34,7 +34,7 @@ npm run start
 #### (b) Back End
 npm run dev
 
-### 5."Embrace the uncertainty and dance with the rhythm of possibility
+### 5. Embrace the uncertainty and dance with the rhythm of possibility
 
 ## Contributing
 
