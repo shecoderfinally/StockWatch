@@ -4,6 +4,9 @@ The Stock Search Web Application provides users with a platform to search for st
   
 This project is a web application built using React, Node.js, Axios, and MongoDB. It allows users to search for stocks and select from a list of matching stock symbols using autocomplete functionality using the Finnhub API and display the results on the search page. The application is built using React for the frontend, Axios for making HTTP requests to the backend server, and MongoDB for storing user data such as watchlists and portfolios. The frontend communicates with the backend server to fetch stock data from the Finnhub API and update the user interface accordingly.
 
+## Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xuwbHHrNvf4/0.jpg)](https://www.youtube.com/watch?v=xuwbHHrNvf4)
+
 ## Requirements
 
 To run the Stock Search Web Application, ensure you have the following requirements installed:
